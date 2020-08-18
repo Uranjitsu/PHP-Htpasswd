@@ -30,6 +30,7 @@
  *
  * For encryption details, see: http://httpd.apache.org/docs/2.2/misc/password_encryptions.html
  */
+
 class Htpasswd
 {
     /**
